@@ -36,7 +36,7 @@ aside {
 	float: right;
 	width: 190px;
 }
-@media (max-width: 799px) {
+@media (max-width: 800px) {
 	body{
 		margin: 0px;
 	}
